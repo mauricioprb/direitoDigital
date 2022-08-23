@@ -28,3 +28,9 @@ Ato de regulamentar é introduzir um conjunto de regras/normas.
 ***
 ### Exaurido
 Ato de após conseguir um resultado continuar agredidindo o bem jurídico.
+***
+### Pena
+Punição aplicada a um ato repreensível na sociedade.
+***
+### Lei
+Regra prescrita soberana de uma sociedade, onde os idivíduos devem cumprir.
