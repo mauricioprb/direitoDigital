@@ -27,7 +27,7 @@ Conjunto de regras que visam padronizar a conduta social, guiando o corportament
 Ato de regulamentar é introduzir um conjunto de regras/normas.
 ***
 ### Exaurido
-Ato de após conseguir um resultado continuar agredidindo o bem jurídico.
+Ato de após conseguir um resultado continuar agredindo o bem jurídico.
 ***
 ### Pena
 Punição aplicada a um ato repreensível na sociedade.
