@@ -34,3 +34,8 @@ Punição aplicada a um ato repreensível na sociedade.
 ***
 ### Lei
 Regra prescrita soberana de uma sociedade, onde os idivíduos devem cumprir.
+***
+### Compliance
+É estar de acordo com leis e regras, é segui a regulamentação de leis internas e externas.
+***
+
