@@ -36,6 +36,27 @@ Punição aplicada a um ato repreensível na sociedade.
 Regra prescrita soberana de uma sociedade, onde os idivíduos devem cumprir.
 ***
 ### Compliance
-É estar de acordo com leis e regras, é segui a regulamentação de leis internas e externas.
+É estar de acordo com leis e regras, é seguir a regulamentação de leis federais ou cooperativas.
 ***
-
+### Engenharia Social
+Ato de enganar e influenciar pessoas a realizarem alguma ação, desprotegendo ou divulgando informações confidenciais de um indivíduo.
+***
+### Direito à privacidade
+Direito constitucional que garante a segurança da vida particular e privada de qualquer indivíduo, assegurado por lei, e ele é responsável por manter em particular todos os acontecimentos da vida de uma pessoa que não caibam no aspecto público.
+***
+### Direito de Imagem
+Restringe a exposição ou utilização da imagem de um indivíduo sem a conciência do mesmo, caso o uso atinja sua honra, respeito ou se destine a fins comerciais.
+***
+### Direito Anonimato
+É restrito o anonimato. Salvo em casos de denúncias ou em casos específicos de acordo com a lei.
+***
+### Direito à Informação
+Direito social, obtenção de informação sobre produtos e serviços, incluindo riscos e efeitos que determinado item pode causar.
+***
+### Direito ao Sigilo
+Trata-se de informações ou ações que não devem ser divulgadas, por motivos pessoais ou específicos.
+***
+### Direito de Igualdade
+Direito que estabelece igualade social perante a lei.
+*** Direito à Segurança
+Estalece que o cidadão possui direito de proteção a sua vida, saúde e qualquer risco que algo ou produto possa trazer.
