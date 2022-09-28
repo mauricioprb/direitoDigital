@@ -60,3 +60,16 @@ Trata-se de informações ou ações que não devem ser divulgadas, por motivos 
 Direito que estabelece igualade social perante a lei.
 *** Direito à Segurança
 Estalece que o cidadão possui direito de proteção a sua vida, saúde e qualquer risco que algo ou produto possa trazer.
+***
+### Assinatura Digital
+A assinatura digital é realizada por meio de certificado digital, é mais segura, pois utiliza criptografia para preservar a identidade do indivíduo.
+A assinatura digital só é válida quando respeita a integridade do documento, ou seja, não pode ser alterado, tem autenticidade, somente o autor pode assinar por meio de uma chave privada, assim, afirmando que o documento é verídico e vem realmente da pessoa desejada e também pode-se pontuar a irretratabilidade, onde uma vez que o documento foi assinado não é possivel voltar atrás.
+
+* Traz mais segurança para empresas
+* Reduz custos
+* Pratico
+***
+### Assinatura eletrônica
+A assinatura eletrônica não exige um certificado digital, ou seja, o que determina a segurança são outros fatores de vericação que podem ser consultados publicamente.
+Geramente é certificado por meio da comprovação de identidade do signatário. No caso, se a assinatura eletrônica for contestada o signatário deve comprova-la com documentos verídicos, mas que pode ser contestadas com provas legais.
+
