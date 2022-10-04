@@ -69,7 +69,20 @@ A assinatura digital só é válida quando respeita a integridade do documento, 
 * Reduz custos
 * Pratico
 ***
-### Assinatura eletrônica
+### Assinatura Eletrônica
 A assinatura eletrônica não exige um certificado digital, ou seja, o que determina a segurança são outros fatores de vericação que podem ser consultados publicamente.
 Geramente é certificado por meio da comprovação de identidade do signatário. No caso, se a assinatura eletrônica for contestada o signatário deve comprova-la com documentos verídicos, mas que pode ser contestadas com provas legais.
-
+***
+### Certificado Digital
+É a identidade digital de pessoa física ou jurídica que permite realizar operações na internet com validade jurídica do CPF físico. O certificado digital permite o envio e a assinatura de documentos pela internet de forma legal, bem como a emissão de notas fiscais eletrônicas, a possibilidade de realização de transações bancárias e o envio de certas declarações, como o Imposto de Renda Pessoa Jurídica (IRPJ) e o eSocial.
+- chave privada — serve para criptografar dados que atestam a identidade sobre a pessoa ou a empresa, seja para acessar um sistema, seja para assinar um documento eletrônico. Só conhece essa chave quem está autorizado a usar o certificado que a gerou;
+- chave pública — é compartilhada com quem precisa decodificar a criptografia das informações que atestam a identidade para que seja reconhecida e aceita. A chave pública só serve para decodificar o que foi criptografado usando a chave privada criada junto dela.
+***
+### Documento Eletrônico
+Registro que utiliza como meio físico um mecanismo eletrônico, como um computador. Outra característica desse formato é a possibilidade de armazenar novas informações que possam ser alteradas ou eliminadas com facilidade.
+***
+### Documento Digital
+Um documento digital é um documento eletrônico que se caracteriza pela codificação em dígitos binários e acesso por sistema computacional. Um documento digital pode ser um documento digitalizado ou um documento nato digital.
+***
+### Criptografia
+Criptografia é um mecanismo de segurança e privacidade que torna determinada comunicação (textos, imagens, vídeos e etc) ininteligível para quem não tem acesso aos códigos de “tradução” da mensagem.
