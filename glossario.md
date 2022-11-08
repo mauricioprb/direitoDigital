@@ -86,3 +86,30 @@ Um documento digital é um documento eletrônico que se caracteriza pela codific
 ***
 ### Criptografia
 Criptografia é um mecanismo de segurança e privacidade que torna determinada comunicação (textos, imagens, vídeos e etc) ininteligível para quem não tem acesso aos códigos de “tradução” da mensagem.
+***
+### Tipos de Licenças de Software
+Do ponto de vista do consumidor, esse modelo de negócios oferece descontos, acesso a um grande público e uma variedade de bens e serviços. Do ponto de vista do vendedor, permite que os vendedores se conectem diretamente com os clientes. Além disso, oferece acesso a uma ampla gama de produtos e serviços para o apelo popular.
+#### GNU General Public License (GPL)
+A GPL é a licença de software livre mais utilizada. Baseia-se em quatro liberdades: a capacidade de executar o programa para qualquer finalidade, acessar como o programa funciona, adaptá-lo às necessidades e redistribuir cópias para ajudar outras pessoas. As pessoas também têm a capacidade de melhorar o programa e liberar quaisquer alterações para que todos possam se beneficiar.
+A liberdade de limitações é um requisito fundamental para o sucesso de qualquer projeto. A GPL garante isso fornecendo acesso ao código-fonte. Isso garante aos programas a liberdade de serem reutilizados e compartilhados sem perder os direitos autorais.
+#### GNU Lesser General Public License (LGPL)
+LGPL é uma licença de software livre projetada como um compromisso entre a GPL e uma licença mais permissiva, como  BSD ou  MIT. A principal diferença entre a GPL e a LGPL é que a LGPL também permite links para software que não está licenciado sob a GPL ou LGPL, incluindo software proprietário. Da mesma forma, trabalhos derivados que não estejam dentro da LGPL devem estar disponíveis na biblioteca.
+#### BSD
+A licença BSD é uma licença de código aberto que impõe poucas restrições em comparação com outras licenças, tornando-a mais próxima do domínio público. O texto licenciado é  de domínio público e pode ser modificado sem restrições, mas neste caso deve ser mencionado o nome da pessoa ou organização que fez a modificação. A licença BSD permite que  software distribuído sob a licença seja incorporado em produtos proprietários. O software também pode ser distribuído sob uma licença BSD sob outra licença.
+#### Apache Licence v2.0
+A Licença Apache  é uma licença de software livre escrita pela Apache Software Foundation. Esta licença pode ser utilizada em qualquer projeto desde que sejam seguidos os termos e condições  em seu texto. Permite o uso e distribuição de código fonte em software livre e proprietário. No entanto, um aviso de direitos autorais e uma isenção de responsabilidade devem ser incluídos no produto (informando os leitores sobre seus direitos, responsabilidades e  responsabilidades dos autores).
+***
+### E-Learnning
+O e-learning é uma forma de ensino a distância que utiliza computadores e recursos audiovisuais para aprimorar o aprendizado individual, em grupo ou comunitário. 
+ 
+ O termo "e-learning", assim como outras expressões comumente utilizadas na área de tecnologia, são emprestados da língua inglesa e correspondem à abreviação de electronic learning (ou electronic learning). 
+ 
+ O e-learning existe por conta da generalização dos computadores permitindo a troca de mensangens instantâneas e o compartilhamento de materiais a distância .
+***
+### Marketing Digital
+O marketing digital é um conjunto de estratégias desenhadas para promover uma marca num ambiente online, com o objetivo de promover sempre uma empresa e produtos. Com isso, as marcas podem utilizar diversos canais e métodos digitais para analisar resultados em tempo real.
+
+Do ponto de vista do consumidor, esse modelo de negócios oferece descontos, acesso a um grande público e uma variedade de bens e serviços. Do ponto de vista do vendedor, permite que os vendedores se conectem diretamente com os clientes. Além disso, oferece acesso a uma ampla gama de produtos e serviços para o apelo popular.
+***
+### E-Governamment
+O governo eletrônico, também conhecido como e-government ou e-Gov, começou a ganhar relevância em 1999, durante o primeiro Fórum Global de Reforma Governamental, que contou com a participação de 45 países (Brazil Internet Steering Committee, 2010). No entanto, o início desse novo tipo de relacionamento governamental começou com a popularização da Internet, graças ao lançamento, em 1993, do primeiro navegador com interface gráfica multimídia - o Mosaic - que tornou a Internet facilmente acessível ao cidadão comum. Anteriormente limitado a áreas acadêmicas. Dessa forma sendo importante pontuar a o avanço no direito individual, o qual disponibilizou e tornou acessível o acesso à internet.
