@@ -99,7 +99,7 @@ A licença BSD é uma licença de código aberto que impõe poucas restrições 
 #### Apache Licence v2.0
 A Licença Apache  é uma licença de software livre escrita pela Apache Software Foundation. Esta licença pode ser utilizada em qualquer projeto desde que sejam seguidos os termos e condições  em seu texto. Permite o uso e distribuição de código fonte em software livre e proprietário. No entanto, um aviso de direitos autorais e uma isenção de responsabilidade devem ser incluídos no produto (informando os leitores sobre seus direitos, responsabilidades e  responsabilidades dos autores).
 ***
-### E-Learnning
+### E-Learning
 O e-learning é uma forma de ensino a distância que utiliza computadores e recursos audiovisuais para aprimorar o aprendizado individual, em grupo ou comunitário. 
  
  O termo "e-learning", assim como outras expressões comumente utilizadas na área de tecnologia, são emprestados da língua inglesa e correspondem à abreviação de electronic learning (ou electronic learning). 
